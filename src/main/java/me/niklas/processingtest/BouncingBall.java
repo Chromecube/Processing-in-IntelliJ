@@ -10,7 +10,7 @@ import java.util.Map;
  * Created by Niklas on 19.07.2019 in processingtest
  * <p>
  * Short disclaimer: Most of the code here was written by Daniel Shiffman.
- * You can find it in the procesing examples at https://processing.org/examples/bouncingball.html .
+ * You can find it in the processing examples at https://processing.org/examples/bouncingball.html .
  * The only changes I made were the introduction of a radius variable and adding the "highest point" lines.
  */
 public class BouncingBall extends PApplet {
